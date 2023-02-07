@@ -1,9 +1,9 @@
 # Projeto TecBlog com CSS básico
 
-Este projeto foi desenvolvido para reforçar os coneceitos aprendidos durante o curso de desenvolvimento web
-encerrando o módulo de CSS básico, o projeto inclui conceitos já utilizados antes além de conceitos novos
-como destaque neste projeto, pode-se citar a formatação de links paa cada estado possível (visitados, não visitados, com cursor selecionado, etc...)
-métodos de flutuação de elementos de modo que a página seja melhor estruturada e posicionada além do uso de display
+Este projeto foi desenvolvido para reforçar os coneceitos aprendidos durante o curso de desenvolvimento web,
+encerrando o módulo de CSS básico o projeto inclui conceitos já utilizados antes além de conceitos novos,
+como destaque neste projeto pode-se citar a formatação de links para cada estado possível (visitados, não visitados, com cursor selecionado, etc...),
+métodos de flutuação de elementos de modo que a página seja melhor estruturada e dividida em colunas, além do uso de display.
 
 Para melhor vizualização das formatações aplicadas, baixe os arquivos e teste em seu navegador!
 
