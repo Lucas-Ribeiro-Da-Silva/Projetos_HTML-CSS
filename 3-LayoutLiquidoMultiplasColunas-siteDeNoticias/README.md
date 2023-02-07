@@ -1,5 +1,5 @@
 # Projeto_siteDeNoticias_layouts
-Este projeto visa reunir todos os conceitos de HTML e CSS básico ao fazer a criação de um site estático com layouts diversificados utilizando de diferentes elementos que compoem a página.
+Este projeto visa reunir todos os conceitos de HTML e CSS básico ao fazer a criação de um site estático com layouts diversificados utilizando de diferentes elementos que compõem a página.
 
 - Home:
 ![home](https://user-images.githubusercontent.com/101514539/186557034-eacafb9e-dd1f-4fe8-9be8-792f59bd8639.png)
