@@ -1,4 +1,4 @@
-# Projeto_CSSbasicoLandingPageAgencyModel
+# Projeto: Site Publicitário para uma modelo ficitícia.
 Neste meu primeiro projeto utilizando de CSS foi desenvolvida algumas páginas básicas formatadas para uma modelo ficticia;
 
 Todas as fotos são livres de direitos autorais!
